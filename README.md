@@ -12,7 +12,7 @@ Classification with CNN without Transfer Learning with Dropout. The best accurac
 
 
 <p align="left">
-  <img src=images_folder\‏‏2.png width="350" title="hover text"  width="800" height="400"
+  <img src=images_folder\2.JPG width="350" title="hover text"  width="1000" height="400"
 </p>
 
 ## Second Model:
