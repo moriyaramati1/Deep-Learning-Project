@@ -12,14 +12,14 @@ Classification with CNN without Transfer Learning with Dropout. The best accurac
 
 
 <p align="left">
-  <img src=images_folder\2.JPG width="350" title="hover text"  width="1000" height="400"
+  <img src=images_folder\‏‏2.png width="1200" title="hover text"  height="400"
 </p>
 
 ## Second Model:
 CNN with dropout and data augmentation. improves the accuracy to  92.92% with the following architecture:
 
 <p align="left">
-  <img src=images_folder\model2.png width="350" title="hover text"  width="800" height="400"
+  <img src=images_folder\‏‏model2.png width="350" title="hover text"  height="400"
 </p>
 
 <p align="left">
@@ -31,5 +31,5 @@ Transfer Learning using the VGG16 model with data augmentation and normalization
 obtained an accuracy of  %95.54 on the test set.
 
 <p align="left">
-  <img src=images_folder\4.png width="350" title="hover text"  width="800" height="400"
+  <img src=images_folder\‏‏4.png width="1200" title="hover text"  width="800" height="400"
 </p>
