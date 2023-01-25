@@ -23,7 +23,7 @@ CNN with dropout and data augmentation. improves the accuracy to  92.92% with th
 </p>
 
 <p align="left">
-  <img src=images_folder\‏‏3.png width="350" title="hover text"  width="800" height="400"
+  <img src=images_folder\‏‏3.png width="350" title="hover text"  width="1200" height="400"
 </p>
 
 ## VGG16 Model:
